@@ -1,0 +1,2 @@
+# techlog
+Notes on technology 
